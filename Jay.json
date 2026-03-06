@@ -93,11 +93,11 @@
             "users": []
         }
     ],
-    "ontbounds": [
+    "outbounds": [
         {
             "tag": "🚀 节点选择",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "香港自动",
                 "🇭🇰 香港",
                 "🇯🇵 日本",
@@ -111,14 +111,14 @@
         {
             "tag": "🐸 手动选择",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "{all}"
             ]
         },
         {
             "tag": "🍎 Apple",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "🎯 全球直连",
                 "🇭🇰 香港",
                 "🇯🇵 日本",
@@ -130,7 +130,7 @@
         {
             "tag": "🐠 漏网之鱼",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "🚀 节点选择",
                 "🎯 全球直连"
             ]
@@ -138,7 +138,7 @@
         {
             "tag": "🇭🇰 香港",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "{all}"
             ],
             "filter": [
@@ -153,7 +153,7 @@
         {
             "tag": "🇯🇵 日本",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "{all}"
             ],
             "filter": [
@@ -168,7 +168,7 @@
         {
             "tag": "🇺🇸 美国",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "{all}"
             ],
             "filter": [
@@ -183,7 +183,7 @@
         {
             "tag": "🇸🇬 新加坡",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "{all}"
             ],
             "filter": [
@@ -198,7 +198,7 @@
         {
             "tag": "香港自动",
             "type": "urltest",
-            "ontbounds": [
+            "outbounds": [
                 "{all}"
             ],
             "filter": [
@@ -216,7 +216,7 @@
         {
             "tag": "♻️ 自动选择",
             "type": "urltest",
-            "ontbounds": [
+            "outbounds": [
                 "{all}"
             ],
             "filter": [
@@ -234,7 +234,7 @@
         {
             "tag": "GLOBAL",
             "type": "selector",
-            "ontbounds": [
+            "outbounds": [
                 "{all}"
             ]
         },
